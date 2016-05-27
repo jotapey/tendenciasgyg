@@ -1,0 +1,2 @@
+[30-May-2016 21:27:07 UTC] PHP Fatal error:  Call to a member function getTemplate() on a non-object in /home/jotapey/public_html/magento/app/code/community/EM/Em0139settings/Helper/Data.php on line 29
+[30-May-2016 21:27:23 UTC] PHP Fatal error:  Call to a member function getTemplate() on a non-object in /home/jotapey/public_html/magento/app/code/community/EM/Em0139settings/Helper/Data.php on line 29
